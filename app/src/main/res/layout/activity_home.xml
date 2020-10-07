@@ -19,17 +19,17 @@
             android:layout_marginLeft="@dimen/_20sdp"
             android:layout_width="@dimen/_40sdp"
             android:layout_height="@dimen/_40sdp"/>
-        <Button
-            android:id="@+id/btnprofil"
+<!--        <Button-->
+<!--            android:id="@+id/btnprofil"-->
 
-            android:text="Detil"
-            android:textColor="#fff"
-            android:layout_marginTop="@dimen/_8sdp"
-            android:layout_alignParentRight="true"
-            android:background="@drawable/btnregister"
-            android:layout_marginRight="@dimen/_20sdp"
-            android:layout_width="@dimen/_60sdp"
-            android:layout_height="@dimen/_23sdp"/>
+<!--            android:text="Detil"-->
+<!--            android:textColor="#fff"-->
+<!--            android:layout_marginTop="@dimen/_8sdp"-->
+<!--            android:layout_alignParentRight="true"-->
+<!--            android:background="@drawable/btnregister"-->
+<!--            android:layout_marginRight="@dimen/_20sdp"-->
+<!--            android:layout_width="@dimen/_60sdp"-->
+<!--            android:layout_height="@dimen/_23sdp"/>-->
     </RelativeLayout>
 
     <androidx.recyclerview.widget.RecyclerView

@@ -27,7 +27,7 @@
 
                  android:textSize="@dimen/_15sdp"
                  android:layout_marginLeft="@dimen/_40sdp"
-                 android:textColor="#9997dd"
+                 android:textColor="@color/cream"
                  android:text="Detail"
                  android:layout_width="wrap_content"
                  android:layout_height="wrap_content"/>
@@ -71,14 +71,14 @@
                              android:id="@+id/labelmerk"
                              android:text="Merk"
                              android:textStyle="bold"
-                             android:textColor="#9997dd"
+                             android:textColor="@color/cream"
                              android:textSize="@dimen/_13sdp"
                              android:layout_width="wrap_content"
                              android:layout_height="wrap_content"/>
 
                  <TextView
                          android:textStyle="bold"
-                         android:textColor="#9997dd"
+                         android:textColor="@color/cream"
                          android:textSize="@dimen/_13sdp"
                          android:id="@+id/labelkode"
                          android:layout_below="@id/labelmerk"
@@ -88,7 +88,7 @@
                          android:layout_height="wrap_content"/>
                  <TextView
                          android:textStyle="bold"
-                         android:textColor="#9997dd"
+                         android:textColor="@color/cream"
                          android:textSize="@dimen/_13sdp"
                          android:id="@+id/labelwarna"
                          android:layout_below="@id/labelkode"
@@ -144,7 +144,7 @@
         android:textColor="#fff"
         android:text="Lanjutkan"
         android:layout_marginTop="@dimen/_10sdp"
-        android:background="@drawable/btnlanjutkan"
+        android:background="@color/cream"
         android:layout_gravity="center"
         android:layout_width="@dimen/_280sdp"
         android:layout_height="@dimen/_35sdp"/>

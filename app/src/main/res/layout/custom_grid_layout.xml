@@ -32,7 +32,7 @@
                 android:text="Tesst"
                 android:layout_marginLeft="@dimen/_10sdp"
                 android:textStyle="bold"
-                android:textColor="#9997dd"
+                android:textColor="@color/cream"
                 android:textSize="@dimen/_11ssp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
@@ -56,7 +56,7 @@
                    android:text="Sewa"
                    android:textSize="@dimen/_8sdp"
                    android:textColor="#fff"
-                   android:background="@drawable/bgregister"
+                   android:background="@color/cream"
                    android:layout_width="@dimen/_50ssp"
                    android:layout_height="@dimen/_25ssp"/>
            </RelativeLayout>

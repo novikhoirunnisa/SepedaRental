@@ -36,7 +36,7 @@
                     android:layout_height="wrap_content"/>
             <EditText
                     android:id="@+id/logEmail"
-                    android:textColor="@color/cream"
+                    android:textColor="#000"
                     android:background="@drawable/edittext"
                     android:layout_width="@dimen/_220sdp"
                     android:layout_height="@dimen/_35sdp"/>
@@ -58,7 +58,7 @@
             <EditText
                     android:id="@+id/logPassword"
                     android:inputType="textPassword"
-                    android:textColor="@color/cream"
+                    android:textColor="#000"
                     android:background="@drawable/edittext"
                     android:layout_width="@dimen/_220sdp"
                     android:layout_height="@dimen/_35sdp"/>
@@ -69,7 +69,6 @@
                 android:layout_width="@dimen/_220sdp"
                 android:layout_marginTop="@dimen/_10sdp"
 
-                android:background="#fff"
                 android:layout_height="wrap_content">
 
             <Button
@@ -78,11 +77,11 @@
                     android:background="@drawable/btnlogin"
                     android:layout_width="@dimen/_55sdp"
                     android:text="Login"
-                    android:textColor="#9997dd"
+                    android:textColor="#000"
                     android:layout_height="@dimen/_23sdp"/>
             <TextView
                     android:onClick="register"
-                    android:textColor="#838383"
+                    android:textColor="#ffff"
                     android:layout_marginLeft="@dimen/_10sdp"
                     android:text="Atau Register?"
                     android:textSize="@dimen/_8sdp"

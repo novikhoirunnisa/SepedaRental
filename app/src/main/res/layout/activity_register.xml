@@ -38,7 +38,7 @@
             <EditText
                     android:id="@+id/regEmail"
                     android:background="@drawable/edittext"
-                    android:textColor="#9997dd"
+                    android:textColor="#000"
                     android:inputType="textEmailAddress"
                     android:layout_width="@dimen/_220sdp"
                     android:layout_height="@dimen/_35sdp"/>
@@ -60,7 +60,7 @@
                     android:layout_height="wrap_content"/>
             <EditText
                     android:id="@+id/regPassword"
-                    android:textColor="#9997dd"
+                    android:textColor="#000"
                     android:inputType="textPassword"
                     android:background="@drawable/edittext"
                     android:layout_width="@dimen/_220sdp"
@@ -84,7 +84,7 @@
             <EditText
                     android:id="@+id/regNama"
                     android:inputType="textPassword"
-                    android:textColor="#9997dd"
+                    android:textColor="#000"
                     android:background="@drawable/edittext"
                     android:layout_width="@dimen/_220sdp"
                     android:layout_height="@dimen/_35sdp"/>
@@ -106,7 +106,7 @@
                     android:layout_height="wrap_content"/>
             <EditText
                     android:id="@+id/regHp"
-                    android:textColor="#9997dd"
+                    android:textColor="#000"
                     android:inputType="number"
                     android:background="@drawable/edittext"
                     android:layout_width="@dimen/_220sdp"
@@ -129,7 +129,7 @@
                     android:layout_height="wrap_content"/>
             <EditText
                     android:id="@+id/regAlamat"
-                    android:textColor="#9997dd"
+                    android:textColor="#000"
                     android:background="@drawable/edittext"
                     android:layout_width="@dimen/_220sdp"
                     android:layout_height="@dimen/_35sdp"/>
@@ -151,7 +151,7 @@
                     android:layout_height="wrap_content"/>
             <EditText
                     android:id="@+id/regKtp"
-                    android:textColor="#9997dd"
+                    android:textColor="#000"
                     android:background="@drawable/edittext"
                     android:layout_width="@dimen/_220sdp"
                     android:layout_height="@dimen/_35sdp"/>
